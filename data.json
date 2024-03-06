@@ -1,0 +1,40 @@
+[
+
+    {
+        "id": 10,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "johndoe@example.com",
+        "gender": "Male",
+        "ip_address": "128.59.104.10",
+        "age": 35
+    },
+    {
+        "id": 11,
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "email": "alice.j@example.com",
+        "gender": "Female",
+        "ip_address": "205.201.45.66",
+        "age": 28
+    },
+    {
+        "id": 12,
+        "first_name": "Michael",
+        "last_name": "Smith",
+        "email": "mike.smith@example.com",
+        "gender": "Male",
+        "ip_address": "172.16.254.1",
+        "age": 45
+    },
+    {
+        "id": 13,
+        "first_name": "Emily",
+        "last_name": "Brown",
+        "email": "emily.brown@example.com",
+        "gender": "Female",
+        "ip_address": "192.168.1.1",
+        "age": 30
+    }
+]
+  

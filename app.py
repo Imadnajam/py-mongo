@@ -5,19 +5,10 @@ db = client["Etablissement"]
 collection = db["Stagiaire"]
 
 
-# Querying data
 query = {"id": 2}
-result = collection.find_one(query)
-print("Result:", result)
-
-
-
-
-
-
-
-
-
+results = collection.find(query)
+for  result in results:
+  print("Result:", result)
 
 
 
