@@ -2,9 +2,9 @@
 
     {
         "id": 10,
-        "first_name": "John",
+        "first_name": "Amarilo",
         "last_name": "Doe",
-        "email": "johndoe@example.com",
+        "email": "amarilo@example.com",
         "gender": "Male",
         "ip_address": "128.59.104.10",
         "age": 35
